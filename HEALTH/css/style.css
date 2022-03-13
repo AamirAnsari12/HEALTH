@@ -121,7 +121,7 @@ h3{
     font-size: 35px;
     margin-left: 35%;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     h1{
         left: 34%;
         font-size: 25px;
@@ -198,5 +198,12 @@ h3{
     h3{
         margin-top: 15%;
         margin-left: 17%;
+        font-size: 15px;
+    }
+    #left{
+        display: none;
+    }
+    #left2{
+        display: none;
     }
 }
